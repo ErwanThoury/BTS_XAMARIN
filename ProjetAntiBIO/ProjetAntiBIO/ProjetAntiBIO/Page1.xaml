@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ProjetAntiBIO.Page1">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="10*"/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0">Liste Antibiotiques:</Label>
+                <ListView Grid.Row="1" x:Name="lvAntiBio" ItemSelected="lvAntiBio_ItemSelected">
+
+                </ListView>
+                <StackLayout x:Name="stkPoids" Grid.Row="2" IsVisible="True">
+                    <Label>Saisir un poids</Label>
+                    <Entry x:Name="entPoids"></Entry>
+                </StackLayout>
+
+                <Button Grid.Row="3" Text="Rechercher" Clicked="Button_Clicked"></Button>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

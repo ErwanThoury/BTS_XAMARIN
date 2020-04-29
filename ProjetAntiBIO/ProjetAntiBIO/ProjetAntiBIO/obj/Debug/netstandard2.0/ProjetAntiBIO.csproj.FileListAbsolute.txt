@@ -1,0 +1,15 @@
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\bin\Debug\netstandard2.0\ProjetAntiBIO.deps.json
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\bin\Debug\netstandard2.0\ProjetAntiBIO.dll
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\ProjetAntiBIO.AssemblyInfoInputs.cache
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\ProjetAntiBIO.AssemblyInfo.cs
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\bin\Debug\netstandard2.0\ref\ProjetAntiBIO.dll
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\bin\Debug\netstandard2.0\ProjetAntiBIO.pdb
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\ProjetAntiBIO.csproj.CoreCompileInputs.cache
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\ProjetAntiBIO.dll
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\ref\ProjetAntiBIO.dll
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\ProjetAntiBIO.pdb
+C:\Users\erwan\OneDrive\Desktop\ProjetXamarin\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\ProjetAntiBIO\obj\Debug\netstandard2.0\ProjetAntiBIO.csprojAssemblyReference.cache
